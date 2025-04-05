@@ -1,0 +1,3 @@
+myBooleanVar = True
+
+print(myBooleanVar)
