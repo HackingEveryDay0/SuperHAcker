@@ -1,6 +1,5 @@
 # Read a file and count how many times a given word appears.
 import re
-pattern = r"\w"
 
 search_word = str(input("Enter word to see how much it appears in the test.txt file: "))
 counter = 0
