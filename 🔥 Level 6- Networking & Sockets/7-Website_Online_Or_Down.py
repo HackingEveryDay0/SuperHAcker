@@ -1,4 +1,4 @@
-# Write a script that checks if a website is online or down.
+# 7.​ Write a script that checks if a website is online or down.
 
 from urllib import request, error
 

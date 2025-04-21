@@ -1,3 +1,5 @@
+# 5.​ Write a program that resolves a domain name to an IP address.
+
 import socket
 
 domain_name = str(input("Enter the domain name: "))

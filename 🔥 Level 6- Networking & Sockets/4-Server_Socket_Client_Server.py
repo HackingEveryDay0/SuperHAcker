@@ -1,3 +1,5 @@
+# 4.​ Create a simple client-server program using socket.
+
 import socket
 
 server_socket = socket.socket()
